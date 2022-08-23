@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Segundo código</title>
+    <style>
+        body{
+            background-color: aqua;
+            font-size: 30px;
+        }
+        h1{
+            color: coral;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Soma de dois números</h1>
+    <script>
+        //Aqui eu peguei o nome da pessoa e guardei na variável "nome"
+        var nome = window.prompt("Qual é o seu nome?")
+        //Eu vou escrever o "Olá, nome! Seja bem vindo!"
+        document.write("Olá, " + nome + "! Seja bem vindo!<br>")
+        var numero1 = Number(window.prompt("Digite um número:"))
+        var numero2 = Number(window.prompt("Digite outro número"))
+        var soma = numero1 + numero2
+        document.write("O resultado da soma é: " + soma)
+        
+        // o "+" ele é de adição
+        // o "+" ele é concatenação
+    </script>
+</body>
+
+</html>
