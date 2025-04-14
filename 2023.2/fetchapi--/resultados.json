@@ -1,0 +1,346 @@
+{
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+        "genre_ids": [
+          16,
+          28,
+          12
+        ],
+        "id": 569094,
+        "original_language": "en",
+        "original_title": "Spider-Man: Across the Spider-Verse",
+        "overview": "Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram.",
+        "popularity": 516.621,
+        "poster_path": "/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg",
+        "release_date": "2023-05-31",
+        "title": "Homem-Aranha: Através do Aranhaverso",
+        "video": false,
+        "vote_average": 8.418,
+        "vote_count": 4713
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 634649,
+        "original_language": "en",
+        "original_title": "Spider-Man: No Way Home",
+        "overview": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...",
+        "popularity": 234.604,
+        "poster_path": "/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
+        "release_date": "2021-12-15",
+        "title": "Homem-Aranha: Sem Volta Para Casa",
+        "video": false,
+        "vote_average": 7.987,
+        "vote_count": 18439
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jHxCeXnSchAuwHnmVatTgqMYdX8.jpg",
+        "genre_ids": [
+          14,
+          28
+        ],
+        "id": 557,
+        "original_language": "en",
+        "original_title": "Spider-Man",
+        "overview": "Peter Parker é um jovem estudioso que vive com seus tios, Ben e May, desde que seus pais faleceram. Peter tem dificuldade em se relacionar com seus colegas, por ser tímido e por eles o considerarem um nerd. Até que, em uma demonstração científica, um acidente inesperado faz com que uma aranha modificada geneticamente pique Peter. A partir de então seu corpo é quimicamente alterado pela picada da aranha.",
+        "popularity": 95.68,
+        "poster_path": "/2WIwz0qJpnVAiofTAhrmhbKxuvE.jpg",
+        "release_date": "2002-05-01",
+        "title": "Homem-Aranha",
+        "video": false,
+        "vote_average": 7.281,
+        "vote_count": 17739
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
+        "genre_ids": [
+          14,
+          28,
+          12
+        ],
+        "id": 559,
+        "original_language": "en",
+        "original_title": "Spider-Man 3",
+        "overview": "O relacionamento entre Peter Parker e Mary Jane parece estar dando certo, mas outros problemas começam a surgir. A roupa de Homem-Aranha torna-se preta e acaba controlando Peter, que apesar de aumentar seus poderes, revela o lado obscuro de sua personalidade. Os vilões Venon e Homem-Areia tentam destruir o super-herói.",
+        "popularity": 77.791,
+        "poster_path": "/63O5iixxXSmyOaBas7ek1tkeVra.jpg",
+        "release_date": "2007-05-01",
+        "title": "Homem-Aranha 3",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 13165
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sLWUtbrpiLp23a0XDSiUiltdFPJ.jpg",
+        "genre_ids": [
+          28,
+          12,
+          14
+        ],
+        "id": 1930,
+        "original_language": "en",
+        "original_title": "The Amazing Spider-Man",
+        "overview": "Peter Parker está tentando saber mais sobre sua origem. Ele encontra uma pasta que pertenceu ao seu pai e quer descobrir por que seus pais desapareceram. Sua busca o leva a Oscorp e ao dr. Curt Connors, que tem como alterego o letal Lagarto.",
+        "popularity": 91.15,
+        "poster_path": "/dODKvv9o9BOemWavnulutJBHM80.jpg",
+        "release_date": "2012-06-23",
+        "title": "O Espetacular Homem-Aranha",
+        "video": false,
+        "vote_average": 6.693,
+        "vote_count": 16421
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qGQf2OHIkoh89K8XeKQzhxczf96.jpg",
+        "genre_ids": [
+          28,
+          12,
+          16,
+          878
+        ],
+        "id": 324857,
+        "original_language": "en",
+        "original_title": "Spider-Man: Into the Spider-Verse",
+        "overview": "Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras variações do Homem-Aranha.",
+        "popularity": 112.464,
+        "poster_path": "/ybQSBSrINtjWsJQ6Ih8sva8HlEZ.jpg",
+        "release_date": "2018-12-06",
+        "title": "Homem-Aranha: No Aranhaverso",
+        "video": false,
+        "vote_average": 8.404,
+        "vote_count": 14152
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 429617,
+        "original_language": "en",
+        "original_title": "Spider-Man: Far From Home",
+        "overview": "Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.",
+        "popularity": 82.133,
+        "poster_path": "/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg",
+        "release_date": "2019-06-28",
+        "title": "Homem-Aranha: Longe de Casa",
+        "video": false,
+        "vote_average": 7.446,
+        "vote_count": 14580
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878,
+          18
+        ],
+        "id": 315635,
+        "original_language": "en",
+        "original_title": "Spider-Man: Homecoming",
+        "overview": "Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker (Tom Holland) voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre (Michael Keaton) surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.",
+        "popularity": 87.78,
+        "poster_path": "/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg",
+        "release_date": "2017-07-05",
+        "title": "Homem-Aranha: De Volta ao Lar",
+        "video": false,
+        "vote_average": 7.344,
+        "vote_count": 20586
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
+        "genre_ids": [
+          28,
+          12,
+          14
+        ],
+        "id": 102382,
+        "original_language": "en",
+        "original_title": "The Amazing Spider-Man 2",
+        "overview": "O jovem Peter Parker está fascinado com as habilidades que adquiriu como Homem-Aranha. Agora, ele precisa lidar com dois problemas: o retorno de um velho amigo, Harry Osborn, e a chegada de um vilão mais forte e poderoso, Electro.",
+        "popularity": 96.7,
+        "poster_path": "/qJifnqFgtflsPZ46OGvX3kFsq8h.jpg",
+        "release_date": "2014-04-16",
+        "title": "O Espetacular Homem-Aranha 2: A Ameaça de Electro",
+        "video": false,
+        "vote_average": 6.499,
+        "vote_count": 12407
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pXzAbaFV8iNtflap5MqSyXcV8Qx.jpg",
+        "genre_ids": [
+          28,
+          12,
+          14
+        ],
+        "id": 558,
+        "original_language": "en",
+        "original_title": "Spider-Man 2",
+        "overview": "Dois anos se passaram desde que o tranquilo Peter Parker separou-se do grande amor de sua vida, Mary Jane Watson, e decidiu assumir o compromisso e a responsabilidade de seguir sendo o Homem-Aranha. Peter enfrenta novos desafios enquanto aprende a lidar com \"seu dom e sua maldição\", tentando desesperadamente harmonizar suas duas identidades: A do super-herói aracnídeo, o Homem-Aranha, e a do estudante universitário.",
+        "popularity": 28.745,
+        "poster_path": "/y06FivvCfqapHB3iETOtbAqWdkD.jpg",
+        "release_date": "2004-06-25",
+        "title": "Homem-Aranha 2",
+        "video": false,
+        "vote_average": 7.26,
+        "vote_count": 14167
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16,
+          28,
+          12,
+          878
+        ],
+        "id": 911916,
+        "original_language": "en",
+        "original_title": "Spider-Man: Beyond the Spider-Verse",
+        "overview": "O capítulo final da história de Miles Morales e de todas as pessoas-aranha das infinitas realidades.",
+        "popularity": 21.529,
+        "poster_path": "/pw0VGrIa7GYpoZrkB4pilAoWNa4.jpg",
+        "release_date": "",
+        "title": "Homem-Aranha: Além do Aranhaverso",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zlpZzccypkAYFZIyYLQcchl90ZC.jpg",
+        "genre_ids": [
+          878,
+          28,
+          80,
+          10770
+        ],
+        "id": 225914,
+        "original_language": "en",
+        "original_title": "Spider-Man",
+        "overview": "Peter Parker é um jovem comum como qualquer outro, mas quando uma Aranha Radioativa o pica, ele ganha Super Poderes! Seu primeiro inimigo é um Homem que Hipnotiza as pessoas para cometerem suicídio, e apenas o Homem Aranha pode detê-lo.",
+        "popularity": 16.524,
+        "poster_path": "/i7zbPQeZgXWQxHBadXDQ53GtVX9.jpg",
+        "release_date": "1977-09-14",
+        "title": "Homem-Aranha",
+        "video": false,
+        "vote_average": 5.953,
+        "vote_count": 139
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16,
+          12,
+          28
+        ],
+        "id": 270768,
+        "original_language": "en",
+        "original_title": "Daredevil vs. Spider-Man",
+        "overview": "Um enigma para o Homem Aranha: qual é a verdadeira identidade de Matt Murdock? De dia, o advogado Murdock o defende como Peter Parker, mas à noite ele briga com qualquer um que o impeça de realizar sua vingança. Seria ele o Homem sem Medo?",
+        "popularity": 11.752,
+        "poster_path": "/pxzkdU0aylSU8W8o4vSXiC0mbtE.jpg",
+        "release_date": "2003-02-11",
+        "title": "Demolidor vs. Homem Aranha",
+        "video": true,
+        "vote_average": 7.4,
+        "vote_count": 111
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tObVe1R7JnO3VXBvAOWTEPmmegu.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 961651,
+        "original_language": "en",
+        "original_title": "Spider-Man: All Roads Lead to No Way Home",
+        "overview": "Da trilogia original de Sam Raimi,  pelos “incríveis” filmes de Marc Webb e chegando à recente trilogia do diretor Jon Watts, levaremos os espectadores em uma viagem junto aos astros, dublês e ação, entre vilões e heróis, e veremos uma homenagem a Stan Lee, além de algumas surpresas.",
+        "popularity": 22.361,
+        "poster_path": "/dNS4w5U6zaezZIxz4AP0FTzWX8f.jpg",
+        "release_date": "2022-05-03",
+        "title": "Homem-Aranha: Todos os Caminhos Levam a 'Sem Volta para Casa'",
+        "video": false,
+        "vote_average": 6.83,
+        "vote_count": 56
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8YTbDLjcIpCvBjiUa1yYFFUhwGX.jpg",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "id": 1183166,
+        "original_language": "fr",
+        "original_title": "Vjeran Tomic: The Spider-Man of Paris",
+        "overview": "O responsável pela invasão do Museu de Arte Moderna de Paris em 2010 conta como conseguiu realizar o maior roubo de arte da história da França.",
+        "popularity": 17.647,
+        "poster_path": "/lEiJMpKPTlxQga4AiZm0LGg10nF.jpg",
+        "release_date": "2023-10-20",
+        "title": "Vjeran Tomic: O Homem-Aranha de Paris",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 22
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          28,
+          18,
+          35,
+          12
+        ],
+        "id": 1142025,
+        "original_language": "pt",
+        "original_title": "Curta: Homem-Aranha Nunca Mais",
+        "overview": "Peter Parker vive entre dois mundos: Sua vida normal e sua vida como um super-herói em Nova York, sendo o Homem-Aranha. A medida em que essas duas vidas convergem cada vez mais, Peter terá que decidir entre seguir em sua missão como super-herói, ou abandonar tudo por uma vida melhor. Eventualmente, Peter cede ao peso de suas responsabilidades, abandonando o manto do Homem-Aranha, mas as consequências dessa perda para a cidade são grandes demais para ignorar, e ele entende que não pode dar as costas para a população, pois Com Grandes Poderes, Vêm Grandes Responsabilidades.",
+        "popularity": 0.6,
+        "poster_path": "/jkd16BL6fW0ghEuijUdUrmuEy5r.jpg",
+        "release_date": "",
+        "title": "Curta: Homem-Aranha Nunca Mais",
+        "video": true,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/11k8XFJSGg7D1pFNnsHy80BvVww.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 836946,
+        "original_language": "it",
+        "original_title": "Mi piace Spiderman... e allora?",
+        "overview": "Cloe é uma menina de seis anos com uma grande paixão: o Homem-Aranha! E no primeiro dia de aula ela só poderia escolher a pasta de seu personagem favorito. Mas por que quando ela mostrar sua nova mochila, faça",
+        "popularity": 1.141,
+        "poster_path": "/5VSIPdp6o8a7hjQF4Iw43G29u1H.jpg",
+        "release_date": "2021-06-04",
+        "title": "Eu Gosto do Homem-Aranha... E daí?",
+        "video": false,
+        "vote_average": 5,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 17
+  }

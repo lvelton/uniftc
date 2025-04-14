@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Enviar características de flor de íris</title>
+</head>
+<body>
+    <h1>Enviar características de flor de íris</h1>
+    
+    <form id="irisForm">
+        <label for="lsepala">Comprimento da Sépala:</label>
+        <input type="text" id="lsepala" name="lsepala" required><br>
+        
+        <label for="asepala">Largura da Sépala:</label>
+        <input type="text" id="asepala" name="asepala" required><br>
+        
+        <label for="lpetala">Comprimento da Pétala:</label>
+        <input type="text" id="lpetala" name="lpetala" required><br>
+        
+        <label for="apetala">Largura da Pétala:</label>
+        <input type="text" id="apetala" name="apetala" required><br>
+        
+        <button type="submit">Enviar</button>
+    </form>
+    
+    <div id="resultado"></div>
+    
+    <script>
+        const form = document.getElementById("irisForm");
+        let resultadoDiv = document.getElementById("resultado");
+        
+        form.addEventListener("submit", function(event) {
+            event.preventDefault();
+            
+            const dadosForm = new FormData(form);
+            const parametros = new URLSearchParams(dadosForm).toString();
+            
+            console.log(parametros)
+            
+            const options = {
+                method: 'GET',
+                headers: new Headers({
+                    "ngrok-skip-browser-warning": true,
+                }),
+            }
+            
+            fetch('https://d98f-34-91-243-227.ngrok-free.app/?'+parametros, options)
+            .then(response => response.json())
+            .then(data => {
+                console.log(data);
+                resultadoDiv.innerHTML = `Classificação da flor: ${data.flor}`;
+            })
+            .catch(error => {
+                resultadoDiv.innerHTML = `Erro: ${error.message}`;
+                console.log(error.message);
+            });
+        });
+    </script>
+</body>
+</html>
