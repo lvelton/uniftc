@@ -1,4 +1,7 @@
 const usuarioService = require("../services/usuario.service");
+const bcrypt = require('bcryptjs');
+const jwt = require('jsonwebtoken');
+require('dotenv').config();
 
 exports.buscarUsuarios = async (req, res) => {
   const usuarios = await usuarioService.listar();
@@ -6,8 +9,26 @@ exports.buscarUsuarios = async (req, res) => {
 }
 
 exports.cadastrarUsuario = async (req, res) => {
-  const usuario = await usuarioService.cadastrar(req.body.nome, req.body.email);
-  res.status(201).json(usuario);
+  const hashSenha = await bcrypt.hash(req.body.senha, 10);
+  const usuario = await usuarioService.cadastrar(req.body.nome, req.body.email, hashSenha);
+  res.status(201).json({mensagem:'Usuário Cadastrado', usuario});
+}
+
+exports.login = async(req, res) =>{
+  const usuario = await usuarioService.buscarPorLogin(req.body.email);
+
+  if (usuario) {
+    const validaSenha = await bcrypt.compare(req.body.senha, usuario.senha);
+    if(validaSenha){
+      const token = jwt.sign({usuario}, process.env.CHAVE_SECRETA, {expiresIn:'1h'});
+      res.status(200).json({mensagem: 'Olá, '+usuario.nome, token});
+    }else{
+      res.status(401).json({mensagem: "Senha inválida"});
+    }
+
+  } else {
+    res.status(404).json({ mensagem: 'Usuário não encontrado' });
+  }
 }
 
 exports.buscarUsuarioPorId = async (req, res) => {

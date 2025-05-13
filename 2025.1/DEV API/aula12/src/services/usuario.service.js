@@ -4,16 +4,21 @@ exports.listar = async () => {
   return await Usuario.findAll();
 }
 
-exports.cadastrar = async (nomeUsuario, emailUsuario) => {
+exports.cadastrar = async (nomeUsuario, emailUsuario, senhaUsuario) => {
   const novoUsuario = await Usuario.create({
     nome: nomeUsuario,
-    email: emailUsuario
+    email: emailUsuario,
+    senha: senhaUsuario
   });
   return novoUsuario;
 }
 
 exports.buscarPorId = async (id) => {
   return await Usuario.findByPk(id);
+}
+
+exports.buscarPorLogin = async (emailUsuario) => {
+  return await Usuario.findOne({where: {email: emailUsuario}})
 }
 
 exports.atualizar = async (id, dadosAtualizados) => {

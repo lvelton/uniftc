@@ -6,6 +6,7 @@ const sequelize = require('./src/config/database');
 App.use(express.json());
 App.use('/usuario', usuarioRoutes);
 
+
 sequelize.sync().then(() => {
   console.log("Banco de dados sincronizado");
   App.listen(3000, () => {
